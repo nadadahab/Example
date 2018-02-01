@@ -1,4 +1,5 @@
 git log
 git diff
 git checkout
+ ay 7aga
 
